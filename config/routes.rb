@@ -12,3 +12,9 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
 end
+
+
+Rails.application.routes.draw do
+  # root "home#index"   # якщо вже є головна сторінка
+  get "about", to: "about#index"
+end
