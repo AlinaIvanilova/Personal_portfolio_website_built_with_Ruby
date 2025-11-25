@@ -15,6 +15,5 @@ end
 
 
 Rails.application.routes.draw do
-  # root "home#index"   # якщо вже є головна сторінка
   get "about", to: "about#index"
 end
