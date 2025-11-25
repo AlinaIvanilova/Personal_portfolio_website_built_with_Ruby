@@ -1,24 +1,30 @@
-# README
+# Personal Portfolio Website Built With Ruby
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Цей проект — моє **перше портфоліо**, зроблене на Ruby on Rails.  
+Він показує мої роботи, навички та контактну інформацію.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## Технології
 
-* System dependencies
+- Ruby 3.3.10
+- Rails 7.1.3.2
+- HTML / CSS
+- Git / GitHub
 
-* Configuration
+---
 
-* Database creation
+## Функціонал
 
-* Database initialization
+- Головна сторінка з короткою інформацією про мене
+- Сторінка **Проекти** з переліком моїх робіт та посиланнями на репозиторії
+- Сторінка **Навички** з переліком технічних навичок
+- Сторінка **Контакти** для зв’язку зі мною
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
+## Установка та запуск
 
-* Deployment instructions
-
-* ...
+1. Клонувати репозиторій:
+```bash
+git clone https://github.com/AlinaIvanilova/Personal_portfolio_website_built_with_Ruby.git
