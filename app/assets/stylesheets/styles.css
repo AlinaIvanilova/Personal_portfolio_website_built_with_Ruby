@@ -1,0 +1,25 @@
+/* This is the CSS file for all the pages */
+body {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mainText {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.nav-buttons {
+    text-align: center;
+}
+
+.btn {
+    color: #101010;
+}
+.project-link {
+    color: #101010;
+}
